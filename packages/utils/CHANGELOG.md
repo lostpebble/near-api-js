@@ -1,5 +1,11 @@
 # @near-js/utils
 
+## 0.0.5
+
+### Patch Changes
+
+- [#1195](https://github.com/near/near-api-js/pull/1195) [`695220e7`](https://github.com/near/near-api-js/commit/695220e75bc43834a7700cfc5491a7eebd324947) Thanks [@ShaunSHamilton](https://github.com/ShaunSHamilton)! - add check for global 'process' object
+
 ## 0.0.4
 
 ### Patch Changes
